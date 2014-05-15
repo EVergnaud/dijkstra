@@ -1,0 +1,302 @@
+key;name;lines;edges
+6;Argentine;1;48*1
+16;Bastille;1;105*1
+19;Berault;1;52*1
+45;Champs-Elysees-Clemenceau;1,13;64*1,172*13
+48;Charles de Gaulle-Etoile;1;108*1
+52;Chateau de Vincennes;1;
+64;Concorde;1;288*1
+88;Esplanade de la Defense;1;206*1
+97;Franklin-Roosevelt;1;45*1
+105;Gare de Lyon;1;245*1
+108;George V;1;97*1
+115;Hotel de Ville;1;268*1
+128;La Defense (Grande Arche);1;88*1
+141;Les Sablons (Jardin d'acclimatation);1;232*1
+147;Louvre-Rivoli;1;55*1
+177;Nation;1;226*1
+186;Palais-Royal (Musee du Louvre);1;147*1
+206;Pont de Neuilly;1;141*1
+226;Porte de Vincennes;1;265*1
+232;Porte Maillot;1;6*1
+245;Reuilly-Diderot;1;177*1
+265;Saint-Mande;1;19*1
+268;Saint-Paul (Le Marais);1;16*1
+288;Tuileries;1;186*1
+1;Alesia;4;176*4
+14;Barbes-Rochechouart;4;54*4
+51;Chateau d'Eau;4;104*4
+54;Chateau Rouge;4;163*4
+55;Chatelet;4,1;89*4,115*1
+60;Cite;4;55*4
+79;Denfert-Rochereau;4;241*4
+89;Etienne Marcel;4;242*4
+104;Gare de l'Est (Verdun);4;106*4
+106;Gare du Nord;4;14*4
+140;Les Halles;4;89*4
+163;Marcadet-Poissonniers;4;277*4
+175;Montparnasse-Bienvenue;4,13;270*4,82*13
+176;Mouton-Duvernet;4;79*4
+182;Odeon;4,1;267*4,61*1
+217;Porte de Clignancourt;4;
+231;Porte d'Orleans (General Leclerc);4;1*4
+241;Raspail;4;292*4
+242;Reaumur-Sebastopol;4;280*4
+262;Saint-Germain des Pres;4;182*4
+267;Saint-Michel;4;60*4
+270;Saint-Placide;4;272*4
+272;Saint-Sulpice;4;262*4
+277;Simplon;4;217*4
+280;Strasbourg-Saint-Denis;4;51*4
+292;Vavin;4;175*4
+11;Avenue Emile-Zola;10;130*10
+42;Cardinal-Lemoine;10;124*10
+49;Charles Michels;10;11*10
+61;Cluny-La Sorbonne;10;166*10
+82;Duroc;10,13;289*10,260*13
+103;Gare d'Austerlitz;10;
+121;Javel-Andre-Citroen;10;49*10
+124;Jussieu;10;103*10
+130;La Motte-Picquet-Grenelle;10;273*10
+148;Mabillon;10;182*10
+166;Maubert-Mutualite;10;42*10
+273;Segur;10;82*10
+275;Sevres-Babylone;10;148*10
+289;Vaneau;10;275*10
+56;Chatillon Montrouge;13;159*13
+100;Gaite;13;175*13
+117;Invalides;13;45*13
+159;Malakoff-Plateau de Vanves;13;160*13
+160;Malakoff-Rue Etienne Dolet;13;224*13
+172;Miromesnil;13;264*13
+193;Pernety;13;100*13
+202;Plaisance;13;193*13
+224;Porte de Vanves;13;202*13
+260;Saint-Francois-Xavier;13;290*13
+264;Saint-Lazare;13;
+290;Varenne;13;117*13
+32;Boulogne-Jean-Jaures;;
+33;Boulogne Pont de Saint-Cloud;;
+46;Chardon-Lagache;;
+86;Eglise d'Auteuil;;
+169;Michel-Ange-Auteuil;;
+170;Michel-Ange-Molitor;;
+171;Mirabeau;;
+211;Porte d'Auteuil;;
+0;Abbesses;;
+2;Alexandre-Dumas;;
+3;Alma-Marceau;;
+4;Anatole-France;;
+5;Anvers;;
+7;Arts-et-Metiers;;
+8;Asnieres-Gennevilliers Les Courtilles;;
+9;Assemblee Nationale;;
+10;Aubervilliers Pantin (4 Chemins);;
+12;Avron;;
+13;Balard;;
+15;Basilique de Saint-Denis;;
+17;Bel-Air;;
+18;Belleville;;
+20;Bercy;;
+21;Bibliotheque-Francois Mitterrand;;
+22;Billancourt;;
+23;Bir-Hakeim (Grenelle);;
+24;Blanche;;
+25;Bobigny-Pablo-Picasso;;
+26;Bobigny-Pantin (Raymond Queneau);;
+27;Boissiere;;
+28;Bolivar;;
+29;Bonne Nouvelle;;
+30;Botzaris;;
+31;Boucicaut;;
+34;Bourse;;
+35;Breguet-Sabin;;
+36;Brochant;;
+37;Buttes-Chaumont;;
+38;Buzenval;;
+39;Cadet;;
+40;Cambronne;;
+41;Campo-Formio;;
+43;Carrefour-Pleyel;;
+44;Censier-Daubenton;;
+47;Charenton-Ecoles;;
+50;Charonne;;
+53;Chateau Landon;;
+57;Chaussee d'Antin (La Fayette);;
+58;Chemin Vert;;
+59;Chevaleret;;
+62;Colonel Fabien;;
+63;Commerce;;
+65;Convention;;
+66;Corentin-Cariou;;
+67;Corentin-Celton;;
+68;Corvisart;;
+69;Courcelles;;
+70;Couronnes;;
+71;Cour Saint-Emilion;;
+72;Creteil-L'Echat (H?pital Henri Mondor);;
+73;Creteil-Prefecture (H?tel de Ville);;
+74;Creteil-Universite;;
+75;Crimee;;
+76;Croix-de-Chavaux (Jacques Duclos);;
+77;Danube;;
+78;Daumesnil (Felix Eboue);;
+80;Dugommier;;
+81;Dupleix;;
+83;Ecole Militaire;;
+84;Ecole Veterinaire de Maisons-Alfort;;
+85;Edgar-Quinet;;
+87;Eglise de Pantin;;
+90;Europe;;
+91;Exelmans;;
+92;Faidherbe-Chaligny;;
+93;Falguiere;;
+94;Felix Faure;;
+95;Filles du Calvaire;;
+96;Fort d'Aubervilliers;;
+98;Front Populaire;;
+99;Gabriel-Peri;;
+101;Gallieni (Parc de Bagnolet);;
+102;Gambetta;;
+107;Garibaldi;;
+109;Glaciere;;
+110;Goncourt (Hopital Saint-Louis);;
+111;Grands Boulevards;;
+112;Guy-Moquet;;
+113;Havre-Caumartin;;
+114;Hoche;;
+116;Iena;;
+118;Jacques-Bonsergent;;
+119;Jasmin;;
+120;Jaures;;
+122;Jourdain;;
+123;Jules Joffrin;;
+125;Kleber;;
+126;La Chapelle;;
+127;La Courneuve-8-Mai-1945;;
+129;La Fourche;;
+131;La Muette;;
+132;La Tour-Maubourg;;
+133;Lamarck-Caulaincourt;;
+134;Laumiere;;
+135;Le Kremlin-Bic?tre;;
+136;Le Peletier;;
+137;Ledru-Rollin;;
+138;Les Agnettes;;
+139;Les Gobelins;;
+142;Liberte;;
+143;Liege;;
+144;Louis Blanc;;
+145;Louise Michel;;
+146;Lourmel;;
+149;Madeleine;;
+150;Mairie de Clichy;;
+151;Mairie de Montreuil;;
+152;Mairie de Saint-Ouen;;
+153;Mairie des Lilas;;
+154;Mairie d'Issy;;
+155;Mairie d'Ivry;;
+156;Maison Blanche;;
+157;Maisons-Alfort-Les Juilliottes;;
+158;Maisons-Alfort-Stade;;
+161;Malesherbes;;
+162;Maraichers;;
+164;Marcel Sembat;;
+165;Marx-Dormoy;;
+167;Menilmontant;;
+168;Michel Bizot;;
+173;Monceau;;
+174;Montgallet;;
+178;Nationale;;
+179;Notre-Dame de Lorette;;
+180;Notre-Dame des Champs;;
+181;Oberkampf;;
+183;Olympiades;;
+184;Opera;;
+185;Ourcq;;
+187;Parmentier;;
+188;Passy;;
+189;Pasteur;;
+190;Pelleport;;
+191;Pere-Lachaise;;
+192;Pereire;;
+194;Philippe Auguste;;
+195;Picpus;;
+196;Pierre et Marie Curie;;
+197;Pigalle;;
+198;Place de Clichy;;
+199;Place des F?tes;;
+200;Place d'Italie;;
+201;Place Monge (Jardin des Plantes);;
+203;Pointe du Lac;;
+204;Poissonniere;;
+205;Pont de Levallois-Becon;;
+207;Pont de Sevres;;
+208;Pont Marie (Cite des Arts);;
+209;Pont Neuf;;
+210;Porte Dauphine (Marechal de Lattre de Tassigny);;
+212;Porte de Bagnolet;;
+213;Porte de Champerret;;
+214;Porte de Charenton;;
+215;Porte de Choisy;;
+216;Porte de Clichy;;
+218;Porte de la Chapelle;;
+219;Porte de la Villette;;
+220;Porte de Montreuil;;
+221;Porte de Pantin;;
+222;Porte de Saint-Cloud;;
+223;Porte de Saint-Ouen;;
+225;Porte de Versailles;;
+227;Porte des Lilas;;
+228;Porte d'Italie;;
+229;Porte d'Ivry;;
+230;Porte Doree;;
+233;Pre-Saint-Gervais;;
+234;Pyramides;;
+235;Pyrenees;;
+236;Quai de la Gare;;
+237;Quai de la Rapee;;
+238;Quatre Septembre;;
+239;Rambuteau;;
+240;Ranelagh;;
+243;Rennes;;
+244;Republique;;
+246;Richard-Lenoir;;
+247;Richelieu-Drouot;;
+248;Riquet;;
+249;Robespierre;;
+250;Rome;;
+251;Rue de la Pompe (Avenue Georges Mandel);;
+252;Rue des Boulets;;
+253;Rue du Bac;;
+254;Rue Saint-Maur;;
+255;Saint-Ambroise;;
+256;Saint-Augustin;;
+257;Saint-Denis-Porte de Paris;;
+258;Saint-Denis-Universite;;
+259;Saint-Fargeau;;
+261;Saint-Georges;;
+263;Saint-Jacques;;
+266;Saint-Marcel;;
+269;Saint-Philippe du Roule;;
+271;Saint-Sebastien-Froissart;;
+274;Sentier;;
+276;Sevres-Lecourbe;;
+278;Solferino;;
+279;Stalingrad;;
+281;Sully-Morland;;
+282;Telegraphe;;
+283;Temple;;
+284;Ternes;;
+285;Tolbiac;;
+286;Trinite-d'Estienne d'Orves;;
+287;Trocadero;;
+291;Vaugirard (Adolphe Cherioux);;
+293;Victor Hugo;;
+294;Villejuif-Leo Lagrange;;
+295;Villejuif-Louis Aragon;;
+296;Villejuif-Paul Vaillant Couturier (H?pital Paul Brousse);;
+297;Villiers;;
+298;Volontaires;;
+299;Voltaire (Leon Blum);;
+300;Wagram;;
